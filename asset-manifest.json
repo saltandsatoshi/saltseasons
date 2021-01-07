@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.755ffded.chunk.css",
-    "main.js": "/static/js/main.c89dd9af.chunk.js",
-    "main.js.map": "/static/js/main.c89dd9af.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a7efb8f8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a7efb8f8.js.map",
-    "static/js/2.c7c522d3.chunk.js": "/static/js/2.c7c522d3.chunk.js",
-    "static/js/2.c7c522d3.chunk.js.map": "/static/js/2.c7c522d3.chunk.js.map",
-    "static/js/3.169c00ea.chunk.js": "/static/js/3.169c00ea.chunk.js",
-    "static/js/3.169c00ea.chunk.js.map": "/static/js/3.169c00ea.chunk.js.map",
-    "static/js/4.4c858a08.chunk.js": "/static/js/4.4c858a08.chunk.js",
-    "static/js/4.4c858a08.chunk.js.map": "/static/js/4.4c858a08.chunk.js.map",
-    "static/js/5.04583443.chunk.js": "/static/js/5.04583443.chunk.js",
-    "static/js/5.04583443.chunk.js.map": "/static/js/5.04583443.chunk.js.map",
-    "static/js/6.1c1630da.chunk.js": "/static/js/6.1c1630da.chunk.js",
-    "static/js/6.1c1630da.chunk.js.map": "/static/js/6.1c1630da.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.755ffded.chunk.css.map": "/static/css/main.755ffded.chunk.css.map",
-    "static/js/2.c7c522d3.chunk.js.LICENSE.txt": "/static/js/2.c7c522d3.chunk.js.LICENSE.txt",
-    "static/js/3.169c00ea.chunk.js.LICENSE.txt": "/static/js/3.169c00ea.chunk.js.LICENSE.txt"
+    "main.css": "/saltseasons/static/css/main.f3185344.chunk.css",
+    "main.js": "/saltseasons/static/js/main.b31b06c6.chunk.js",
+    "main.js.map": "/saltseasons/static/js/main.b31b06c6.chunk.js.map",
+    "runtime-main.js": "/saltseasons/static/js/runtime-main.97ac2c0f.js",
+    "runtime-main.js.map": "/saltseasons/static/js/runtime-main.97ac2c0f.js.map",
+    "static/js/2.95a8530d.chunk.js": "/saltseasons/static/js/2.95a8530d.chunk.js",
+    "static/js/2.95a8530d.chunk.js.map": "/saltseasons/static/js/2.95a8530d.chunk.js.map",
+    "static/js/3.10a20450.chunk.js": "/saltseasons/static/js/3.10a20450.chunk.js",
+    "static/js/3.10a20450.chunk.js.map": "/saltseasons/static/js/3.10a20450.chunk.js.map",
+    "static/js/4.c91a254d.chunk.js": "/saltseasons/static/js/4.c91a254d.chunk.js",
+    "static/js/4.c91a254d.chunk.js.map": "/saltseasons/static/js/4.c91a254d.chunk.js.map",
+    "static/js/5.8bcecb0f.chunk.js": "/saltseasons/static/js/5.8bcecb0f.chunk.js",
+    "static/js/5.8bcecb0f.chunk.js.map": "/saltseasons/static/js/5.8bcecb0f.chunk.js.map",
+    "static/js/6.54dea931.chunk.js": "/saltseasons/static/js/6.54dea931.chunk.js",
+    "static/js/6.54dea931.chunk.js.map": "/saltseasons/static/js/6.54dea931.chunk.js.map",
+    "index.html": "/saltseasons/index.html",
+    "static/css/main.f3185344.chunk.css.map": "/saltseasons/static/css/main.f3185344.chunk.css.map",
+    "static/js/2.95a8530d.chunk.js.LICENSE.txt": "/saltseasons/static/js/2.95a8530d.chunk.js.LICENSE.txt",
+    "static/js/3.10a20450.chunk.js.LICENSE.txt": "/saltseasons/static/js/3.10a20450.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a7efb8f8.js",
-    "static/js/2.c7c522d3.chunk.js",
-    "static/css/main.755ffded.chunk.css",
-    "static/js/main.c89dd9af.chunk.js"
+    "static/js/runtime-main.97ac2c0f.js",
+    "static/js/2.95a8530d.chunk.js",
+    "static/css/main.f3185344.chunk.css",
+    "static/js/main.b31b06c6.chunk.js"
   ]
 }
